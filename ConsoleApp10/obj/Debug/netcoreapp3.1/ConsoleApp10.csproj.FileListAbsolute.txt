@@ -1,0 +1,11 @@
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\Blagovest\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb

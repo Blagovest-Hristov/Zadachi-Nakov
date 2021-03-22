@@ -1,0 +1,11 @@
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.exe
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.deps.json
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.runtimeconfig.json
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.runtimeconfig.dev.json
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.dll
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\bin\Debug\netcoreapp3.1\Zadacha11.pdb
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\obj\Debug\netcoreapp3.1\Zadacha11.csprojAssemblyReference.cache
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\obj\Debug\netcoreapp3.1\Zadacha11.AssemblyInfoInputs.cache
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\obj\Debug\netcoreapp3.1\Zadacha11.AssemblyInfo.cs
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\obj\Debug\netcoreapp3.1\Zadacha11.dll
+C:\Users\Blagovest\source\repos\Nakov exercise\Zadacha11\obj\Debug\netcoreapp3.1\Zadacha11.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Blagovest\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Blagovest\\.nuget\\packages"
+    ]
+  }
+}

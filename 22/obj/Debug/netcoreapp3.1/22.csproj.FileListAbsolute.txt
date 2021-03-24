@@ -1,0 +1,13 @@
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.exe
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.deps.json
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.runtimeconfig.json
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.runtimeconfig.dev.json
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.dll
+C:\Users\Blagovest\source\repos\Zadacha17\22\bin\Debug\netcoreapp3.1\22.pdb
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.csprojAssemblyReference.cache
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.AssemblyInfoInputs.cache
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.AssemblyInfo.cs
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.csproj.CoreCompileInputs.cache
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.dll
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.pdb
+C:\Users\Blagovest\source\repos\Zadacha17\22\obj\Debug\netcoreapp3.1\22.genruntimeconfig.cache

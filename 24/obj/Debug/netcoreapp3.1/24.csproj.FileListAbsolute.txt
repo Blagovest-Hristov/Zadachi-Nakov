@@ -1,0 +1,13 @@
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.exe
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.deps.json
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.runtimeconfig.json
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.runtimeconfig.dev.json
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.dll
+C:\Users\Blagovest\source\repos\24\24\bin\Debug\netcoreapp3.1\24.pdb
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.csprojAssemblyReference.cache
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.AssemblyInfoInputs.cache
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.AssemblyInfo.cs
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.csproj.CoreCompileInputs.cache
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.dll
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.pdb
+C:\Users\Blagovest\source\repos\24\24\obj\Debug\netcoreapp3.1\24.genruntimeconfig.cache

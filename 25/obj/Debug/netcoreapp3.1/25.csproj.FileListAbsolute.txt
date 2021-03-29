@@ -1,0 +1,13 @@
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.exe
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.deps.json
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.runtimeconfig.json
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.runtimeconfig.dev.json
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.dll
+C:\Users\Blagovest\source\repos\24\25\bin\Debug\netcoreapp3.1\25.pdb
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.csprojAssemblyReference.cache
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.AssemblyInfoInputs.cache
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.AssemblyInfo.cs
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.csproj.CoreCompileInputs.cache
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.dll
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.pdb
+C:\Users\Blagovest\source\repos\24\25\obj\Debug\netcoreapp3.1\25.genruntimeconfig.cache
